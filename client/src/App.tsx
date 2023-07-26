@@ -31,7 +31,7 @@ function App() {
       <Header>
         <Container>
           <h1>Wilders Book with CD</h1>
-          <h2>Wilders dedicate Jonathan</h2>
+          <h2>Wilders dedicate Jonathan2</h2>
         </Container>
       </Header>
       <Container>
